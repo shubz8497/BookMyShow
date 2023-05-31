@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookMyShow/static/css/main.03656c64.css",
+    "main.js": "/BookMyShow/static/js/main.b3aea7d5.js",
+    "index.html": "/BookMyShow/index.html",
+    "main.03656c64.css.map": "/BookMyShow/static/css/main.03656c64.css.map",
+    "main.b3aea7d5.js.map": "/BookMyShow/static/js/main.b3aea7d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03656c64.css",
+    "static/js/main.b3aea7d5.js"
+  ]
+}
