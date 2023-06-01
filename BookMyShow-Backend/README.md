@@ -14,7 +14,7 @@ This backend it built on top of Node.js where the user data is being stored and 
 It takes the user data from the [Front-end](https://shubz8497.github.io/BookMyShow/) and uses Mongo DB Atlas to store the data recieved and fetches the data back from the database to show the user that the operation was successfully completed.
 
 ### End points
-1. `Post` [url](https://bookmyshow-api.onrender.com)/api/booking 
+1. `Post` [url](https://bookmyshow-api.onrender.com/api/booking)/api/booking 
 
    This is a post request endpoint which is used to store the booking details of the user.
 
